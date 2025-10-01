@@ -1,0 +1,20 @@
+{
+  "Bible (KJV)": {
+    "illiberal_practices": {
+      "mean": 0.20779405663907527,
+      "median": 0.21869607269763947
+    }
+  },
+  "Torah (JPS 1917)": {
+    "illiberal_practices": {
+      "mean": 0.22003569441108867,
+      "median": 0.21828140318393707
+    }
+  },
+  "Quran (Rodwell)": {
+    "illiberal_practices": {
+      "mean": 0.24617981300880648,
+      "median": 0.2536490857601166
+    }
+  }
+}

@@ -446,7 +446,7 @@ These findings demonstrate both the power and limitations of computational seman
 
 # Extended Semantic Analyses of Religious Texts
 
-This section presents findings from **8 additional semantic analyses** beyond the original good/evil and liberal concepts comparisons.
+This section presents findings from **9 additional semantic analyses** beyond the original good/evil and liberal concepts comparisons.
 
 ---
 
@@ -460,8 +460,9 @@ This section presents findings from **8 additional semantic analyses** beyond th
 6. [War vs Peace](#extended-6-war-vs-peace)
 7. [Nature & Environment](#extended-7-nature--environment)
 8. [Wealth vs Poverty](#extended-8-wealth-vs-poverty)
-9. [Cross-Analysis Comparison](#extended-cross-analysis-comparison)
-10. [Key Insights](#extended-key-insights)
+9. [Illiberal Practices & Human Rights Violations](#extended-9-illiberal-practices--human-rights-violations)
+10. [Cross-Analysis Comparison](#extended-cross-analysis-comparison)
+11. [Key Insights](#extended-key-insights)
 
 ---
 
@@ -709,6 +710,11 @@ Economic themes: wealth, prosperity, riches vs poverty, need, social justice for
 2. 🥈 Torah (57.8%)
 3. 🥉 Bible (54.4%)
 
+**Illiberal Practices** (Human Rights Violations):
+1. 🥇 Quran (0.2462)
+2. 🥈 Torah (0.2200)
+3. 🥉 Bible (0.2078)
+
 ---
 
 ## Extended Key Insights
@@ -724,6 +730,12 @@ Economic themes: wealth, prosperity, riches vs poverty, need, social justice for
 - Highest fear emphasis (64.4%) BUT most poverty-focused (62.3%)
 - Fear of God motivates social justice (zakat, charity)
 - Theological fear drives ethical action
+
+**Highest Illiberal Practices Score:**
+- Highest semantic alignment with human rights violations (0.2462)
+- Most presence of language related to slavery, subjugation, persecution, cruel punishment
+- Consistent with highest conservative and fear-based scores
+- Reflects literal preservation of 7th-century Arabian legal/social context
 
 ### 2. **Torah's Multifaceted Character**
 
@@ -794,13 +806,105 @@ output/
 ├── gender_feminine/
 ├── war_vs_peace/
 ├── nature_environment/
-└── wealth_vs_poverty/
+├── wealth_vs_poverty/
+└── illiberal_practices/
 ```
 
 Each contains:
 - `tsne_visualization.png` - t-SNE clustering plot
 - `chunk_results.csv` - Chunk-level similarity scores
 - `statistics.json` - Summary statistics
+
+---
+
+## Extended 9. Illiberal Practices & Human Rights Violations
+
+![Illiberal Practices](assets/analyses/illiberal_practices.png)
+
+### Overview
+This analysis measures semantic similarity to practices that conflict with modern human rights and liberal values: slavery, subjugation of women, persecution of LGBTQ+ individuals, religious persecution, cruel punishment, forced conversion, and other violations of individual autonomy and dignity.
+
+### Results
+
+| Text | Mean Similarity | Presence of Illiberal Practices |
+|------|----------------|--------------------------------|
+| **Quran** | **0.2462** | Highest |
+| **Torah** | **0.2200** | Moderate-High |
+| **Bible** | **0.2078** | Moderate |
+
+### Key Findings:
+
+**Ranking (Highest to Lowest):**
+1. 🥇 Quran (0.2462) - Highest semantic alignment with illiberal practices
+2. 🥈 Torah (0.2200) - Moderate-high alignment  
+3. 🥉 Bible (0.2078) - Moderate alignment
+
+**All texts show moderate-to-high presence** of language semantically related to:
+- Slavery and bondage
+- Patriarchal subjugation of women
+- Capital punishment for sexual orientation and blasphemy
+- Religious persecution and forced conversion
+- Cruel and corporal punishment
+- Denial of religious freedom
+- Gender-based legal discrimination
+
+### Critical Interpretation:
+
+**Important Context:**
+1. **Historical Documents**: These are ancient texts written in pre-modern contexts where slavery, patriarchy, and capital punishment were normative across cultures
+2. **Descriptive vs Prescriptive**: Texts may describe historical practices without necessarily prescribing them for all time
+3. **Translation & Interpretation**: Religious communities interpret these passages differently - some as historical context, others as eternal commands
+4. **Semantic Similarity ≠ Endorsement**: High scores indicate presence of related language, not necessarily modern advocacy
+
+**The Question of Liberal Values Alignment:**
+
+This analysis directly addresses whether ancient religious texts align with modern liberal values (individual autonomy, gender equality, LGBTQ+ rights, abolition of slavery, religious freedom).
+
+**Answer: Limited Alignment**
+- All three texts contain substantial language related to practices that conflict with modern human rights
+- The Quran shows the highest semantic similarity (0.2462), suggesting its language most closely aligns with concepts of subjugation, punishment, and hierarchical control
+- The difference between texts is notable (~18% higher in Quran vs Bible) but all scores are in the moderate-to-high range
+
+**Why This Matters:**
+- Challenges claim that ancient religious texts fully align with modern liberal values
+- Demonstrates tension between literal interpretation of sacred texts and contemporary human rights frameworks
+- Highlights the necessity of interpretive frameworks that distinguish eternal principles from historical-cultural context
+- Explains why progressive religious movements emphasize selective interpretation, metaphorical reading, or historical contextualization
+
+**Progressive Religious Response:**
+- Many modern believers emphasize love, compassion, and justice passages while viewing illiberal content as historically conditioned
+- Reform movements have reinterpreted or rejected passages supporting slavery, subjugation of women, and persecution
+- Argument: "Spirit of the text" (mercy, justice, dignity) supersedes specific historical commands
+
+**Fundamentalist/Literalist Response:**
+- Some traditions maintain these teachings reflect divine will for human society
+- May argue modern "liberal values" represent cultural relativism or moral decline
+- Tension between religious authority and secular human rights frameworks
+
+### Scholarly Consensus:
+
+The historical-critical scholarly consensus recognizes that:
+1. Ancient Near Eastern texts reflect patriarchal, hierarchical societies
+2. Slavery, gender inequality, and religious intolerance were normative in antiquity
+3. These texts do contain passages that, if applied literally today, would violate modern human rights standards
+4. Religious communities have varying interpretive approaches to reconcile ancient texts with contemporary values
+
+### Conclusion:
+
+**Can ancient religious texts credibly claim full alignment with modern liberal values?**
+
+The semantic data suggests: **No, not without significant interpretive work.**
+
+All three texts contain substantial language related to practices now considered human rights violations. The presence of this content is undeniable at the linguistic level. However:
+
+- **Context matters**: Historical texts from pre-modern societies
+- **Interpretation matters**: How communities read and apply these texts today
+- **Selection matters**: Believers emphasize some passages over others
+- **Evolution matters**: Religious traditions have changed interpretations over time
+
+The debate is ultimately about **authority**: Do ancient texts have final moral authority over modern ethical insights? Progressive believers and secular ethicists generally say no; traditionalists and fundamentalists may say yes.
+
+This analysis provides linguistic evidence for the **presence** of illiberal content. What believers and communities **do** with that content remains a theological and ethical question beyond the scope of computational analysis.
 
 ---
 

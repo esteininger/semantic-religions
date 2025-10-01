@@ -1,0 +1,20 @@
+{
+  "mode": "single",
+  "concepts": {
+    "illiberal_practices": [
+      "slavery", "bondage", "servitude", "human ownership", "slave trade",
+      "subjugation of women", "women as property", "female submission", "patriarchal oppression",
+      "denial of women's rights", "forced marriage", "male dominance over women",
+      "persecution of homosexuals", "condemnation of same-sex relationships", "death penalty for homosexuality",
+      "capital punishment for sexual orientation", "stoning", "execution for blasphemy",
+      "religious persecution", "forced conversion", "killing apostates", "heretic burning",
+      "torture", "cruel punishment", "mutilation", "corporal punishment",
+      "denial of religious freedom", "compulsory faith", "punishment for unbelief",
+      "ethnic cleansing", "genocide", "massacre of infidels", "holy war against unbelievers",
+      "child marriage", "denial of consent", "forced obedience", "absolute patriarchy",
+      "women's testimony worth less", "inheritance inequality", "gender-based legal discrimination",
+      "honor killing", "death for adultery", "public execution", "violent retribution"
+    ]
+  }
+}
+
