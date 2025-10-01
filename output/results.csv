@@ -1,0 +1,4 @@
+corpus,file,sim_good,sim_evil,score_good_minus_evil,label
+corpora/quran_rodwell.txt,corpora/quran_rodwell.txt,0.4911630153656006,0.5004525184631348,-0.00928950309753418,evil
+corpora/bible_kjv.txt,corpora/bible_kjv.txt,0.25251543521881104,0.2545797824859619,-0.002064347267150879,evil
+corpora/torah_jps1917.txt,corpora/torah_jps1917.txt,0.32182788848876953,0.3156021237373352,0.006225764751434326,good

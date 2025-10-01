@@ -1,0 +1,4 @@
+corpus,file,liberal_similarity,liberal_score_normalized
+corpora/quran_rodwell.txt,corpora/quran_rodwell.txt,0.4531606435775757,45.31606435775757
+corpora/torah_jps1917.txt,corpora/torah_jps1917.txt,0.27267003059387207,27.267003059387207
+corpora/bible_kjv.txt,corpora/bible_kjv.txt,0.19140079617500305,19.140079617500305
