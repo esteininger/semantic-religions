@@ -1,0 +1,18 @@
+{
+  "mode": "dual",
+  "concepts": {
+    "good": [
+      "kindness", "compassion", "honesty", "generosity", "mercy",
+      "altruism", "justice", "charity", "forgiveness", "protecting the innocent",
+      "courage to help others", "human dignity", "saving lives",
+      "love", "peace", "harmony", "benevolence", "virtue"
+    ],
+    "evil": [
+      "cruelty", "malice", "deceit", "oppression", "brutality",
+      "greed at the expense of others", "terrorizing civilians", "injustice",
+      "murder", "harm for pleasure", "torture", "genocide", "corruption",
+      "hatred", "violence", "wickedness", "malevolence", "vice"
+    ]
+  }
+}
+

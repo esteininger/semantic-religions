@@ -1,0 +1,20 @@
+{
+  "analysis_name": "Religious Texts Analysis",
+  "description": "Semantic analysis of Bible, Torah, and Quran across various conceptual dimensions",
+  "texts": [
+    "texts/religious/bible_kjv.txt",
+    "texts/religious/torah_jps1917.txt",
+    "texts/religious/quran_rodwell.txt"
+  ],
+  "labels": [
+    "Bible (KJV)",
+    "Torah (JPS 1917)",
+    "Quran (Rodwell)"
+  ],
+  "concepts": "concepts/conservative.json",
+  "output": "examples/religious/output/conservative",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "target_chunks": 150,
+  "use_semantic_chunking": true
+}
+

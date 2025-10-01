@@ -1,0 +1,54 @@
+{
+  "_comment": "Template for creating new concept definitions",
+  "_instructions": [
+    "1. Set 'mode' to 'single' for measuring one concept, or 'dual' for comparing two concepts",
+    "2. Add your concept names as keys in the 'concepts' object",
+    "3. Provide 10-30 seed phrases that exemplify each concept",
+    "4. Phrases should be representative but not exhaustive",
+    "5. Mix abstract terms with concrete examples",
+    "6. Save with a descriptive filename (e.g., political_ideology.json)"
+  ],
+  
+  "mode": "single",
+  
+  "concepts": {
+    "concept_name_here": [
+      "seed phrase 1",
+      "seed phrase 2",
+      "seed phrase 3",
+      "add 10-30 representative phrases",
+      "mix abstract and concrete terms",
+      "use synonyms and related concepts",
+      "include specific examples",
+      "think about different aspects",
+      "consider various contexts",
+      "ensure comprehensive coverage"
+    ]
+  },
+  
+  "_example_single_mode": {
+    "mode": "single",
+    "concepts": {
+      "environmental_consciousness": [
+        "climate change", "sustainability", "conservation", "biodiversity",
+        "renewable energy", "carbon footprint", "ecosystem", "pollution",
+        "green technology", "environmental protection", "nature preservation"
+      ]
+    }
+  },
+  
+  "_example_dual_mode": {
+    "mode": "dual",
+    "concepts": {
+      "individualism": [
+        "individual rights", "personal freedom", "self-reliance", "autonomy",
+        "independence", "personal choice", "individual responsibility"
+      ],
+      "collectivism": [
+        "community", "collective good", "cooperation", "solidarity",
+        "common interest", "social responsibility", "group harmony"
+      ]
+    }
+  }
+}
+
