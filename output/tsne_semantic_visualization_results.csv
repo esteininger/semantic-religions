@@ -1,0 +1,388 @@
+corpus,classification,tsne_x,tsne_y
+Bible (KJV),evil,4.566533,-27.771511
+Bible (KJV),evil,-4.026157,11.475598
+Bible (KJV),good,9.113326,19.3951
+Bible (KJV),good,11.222703,21.051765
+Bible (KJV),evil,8.426135,14.695172
+Bible (KJV),evil,6.6781597,9.651464
+Bible (KJV),good,3.7769196,13.287928
+Bible (KJV),good,4.9566836,11.529026
+Bible (KJV),evil,-15.318093,10.327602
+Bible (KJV),evil,-8.853715,12.9391575
+Bible (KJV),good,-7.46002,9.192957
+Bible (KJV),good,-12.361256,15.647918
+Bible (KJV),good,-8.525373,-10.801268
+Bible (KJV),evil,3.8468437,-1.5190878
+Bible (KJV),evil,2.48746,5.002101
+Bible (KJV),good,0.25900286,4.503035
+Bible (KJV),evil,-5.384424,4.2907395
+Bible (KJV),evil,-13.543065,3.3344455
+Bible (KJV),evil,10.029869,7.8196135
+Bible (KJV),evil,-4.2270184,10.391456
+Bible (KJV),good,4.664516,16.10718
+Bible (KJV),good,-1.8482478,9.596801
+Bible (KJV),evil,0.62104195,6.627563
+Bible (KJV),good,-1.0537862,9.210159
+Bible (KJV),evil,8.486877,10.9291525
+Bible (KJV),good,0.23443882,8.614163
+Bible (KJV),evil,-4.40566,6.935307
+Bible (KJV),evil,-1.8099163,-2.1127923
+Bible (KJV),evil,0.11937537,24.65597
+Bible (KJV),evil,-3.6016333,5.764618
+Bible (KJV),good,-1.6914006,6.504916
+Bible (KJV),good,-0.8632357,7.0966015
+Bible (KJV),evil,-2.4055827,5.800098
+Bible (KJV),evil,-2.7837117,7.932221
+Bible (KJV),evil,0.12221591,24.605103
+Bible (KJV),good,-8.011591,14.163868
+Bible (KJV),good,0.8224763,25.381836
+Bible (KJV),evil,3.300387,10.231572
+Bible (KJV),evil,0.79441696,1.9477285
+Bible (KJV),evil,9.295782,9.404526
+Bible (KJV),evil,2.5330558,6.8349094
+Bible (KJV),good,12.158694,-2.0441506
+Bible (KJV),evil,12.254819,1.451382
+Bible (KJV),good,12.577859,-8.229893
+Bible (KJV),good,8.964605,-3.664015
+Bible (KJV),evil,6.866243,-1.3889705
+Bible (KJV),evil,6.4825125,-0.91814435
+Bible (KJV),evil,4.7741356,-3.2199137
+Bible (KJV),evil,4.8432155,-0.04684126
+Bible (KJV),evil,11.295408,8.509926
+Bible (KJV),evil,-0.32681724,-0.6353689
+Bible (KJV),evil,0.52426356,-0.0070051923
+Bible (KJV),good,1.4070745,-1.8660537
+Bible (KJV),evil,9.185805,-5.5975094
+Bible (KJV),good,12.797126,-7.1804466
+Bible (KJV),good,13.781602,-6.337602
+Bible (KJV),evil,4.695225,1.6163498
+Bible (KJV),evil,5.3658876,-7.2233634
+Bible (KJV),evil,-6.092432,1.3328029
+Bible (KJV),evil,6.1780586,3.4670393
+Bible (KJV),evil,3.2669117,-4.7246428
+Bible (KJV),evil,6.0378394,2.8230073
+Bible (KJV),evil,5.2845964,0.78530866
+Bible (KJV),evil,3.8504565,-4.012118
+Bible (KJV),good,10.994625,0.18013787
+Bible (KJV),evil,6.2394304,-4.0343256
+Bible (KJV),evil,1.3967596,-0.24424823
+Bible (KJV),evil,7.6253495,-3.3956392
+Bible (KJV),evil,16.618847,2.179475
+Bible (KJV),evil,16.507244,7.503994
+Bible (KJV),evil,4.091036,3.3655808
+Bible (KJV),evil,4.984028,-7.872481
+Bible (KJV),evil,4.0539656,4.1282873
+Bible (KJV),evil,6.4160724,0.9338323
+Bible (KJV),good,16.49186,7.4901867
+Bible (KJV),good,-4.1661296,1.6065413
+Bible (KJV),evil,2.9297273,1.7786156
+Bible (KJV),evil,2.0917156,2.2581556
+Bible (KJV),evil,11.548734,15.009541
+Bible (KJV),evil,-3.8917954,4.362037
+Bible (KJV),evil,-4.0315666,2.0234888
+Bible (KJV),evil,-2.13297,3.137837
+Bible (KJV),evil,-2.1176178,3.2606578
+Bible (KJV),evil,0.742475,4.116082
+Bible (KJV),evil,2.3792038,4.178915
+Bible (KJV),good,15.579359,-1.0527006
+Bible (KJV),good,13.528136,-2.9647298
+Bible (KJV),good,12.477264,-1.5647168
+Bible (KJV),evil,9.204125,-1.2230043
+Bible (KJV),good,8.984232,-1.2607818
+Bible (KJV),evil,13.735521,4.11964
+Bible (KJV),good,4.4254866,5.980374
+Bible (KJV),good,1.2575248,8.63215
+Bible (KJV),good,10.295996,-3.1638117
+Bible (KJV),good,8.653104,4.193655
+Bible (KJV),evil,3.8746872,6.4299483
+Bible (KJV),good,-9.923277,15.480989
+Bible (KJV),evil,8.54402,1.8361773
+Bible (KJV),good,9.932311,6.9078026
+Bible (KJV),good,-5.0299287,7.6307726
+Bible (KJV),good,-0.52689093,1.3872049
+Bible (KJV),good,-0.8700238,1.7326266
+Bible (KJV),evil,5.081265,8.406841
+Bible (KJV),good,6.2931457,7.240792
+Bible (KJV),good,12.77198,-3.188676
+Bible (KJV),good,11.719543,3.8600063
+Bible (KJV),good,13.515863,4.128179
+Bible (KJV),good,11.683845,4.790884
+Bible (KJV),good,-10.156479,17.49666
+Bible (KJV),good,-1.3332694,-5.530579
+Bible (KJV),good,8.863404,0.9054298
+Bible (KJV),good,7.0340757,7.0085087
+Bible (KJV),good,12.501743,-2.831749
+Bible (KJV),evil,10.955637,-5.4403396
+Bible (KJV),good,8.666536,-8.985643
+Bible (KJV),evil,-4.1617007,0.32328802
+Bible (KJV),evil,5.9328027,-6.3318014
+Bible (KJV),good,11.607701,-26.750927
+Bible (KJV),evil,4.910611,-5.282935
+Bible (KJV),evil,10.263689,-5.5308347
+Bible (KJV),good,-11.850341,18.570057
+Bible (KJV),good,12.687588,-7.2735276
+Bible (KJV),good,-22.126951,-13.197018
+Bible (KJV),good,-22.414011,-11.952729
+Bible (KJV),good,-21.805183,-12.534256
+Torah (JPS 1917),good,-17.434155,-2.3914554
+Torah (JPS 1917),good,-18.473251,-1.304342
+Torah (JPS 1917),good,-18.445734,-1.9543061
+Torah (JPS 1917),good,-16.869215,-2.0875564
+Torah (JPS 1917),good,-16.092312,-1.4236182
+Torah (JPS 1917),good,-18.433565,-2.768145
+Torah (JPS 1917),good,-15.387036,-0.9812582
+Torah (JPS 1917),evil,-1.6711974,13.721114
+Torah (JPS 1917),evil,-2.0767267,14.623829
+Torah (JPS 1917),evil,-4.3600187,14.873696
+Torah (JPS 1917),evil,-3.653234,-4.71485
+Torah (JPS 1917),good,14.271549,17.510838
+Torah (JPS 1917),evil,-2.0917656,18.950373
+Torah (JPS 1917),evil,-2.559181,18.892796
+Torah (JPS 1917),good,-6.0327783,18.928022
+Torah (JPS 1917),evil,-3.9422178,11.748083
+Torah (JPS 1917),evil,-2.591698,11.829322
+Torah (JPS 1917),good,-3.9242837,18.81758
+Torah (JPS 1917),good,-5.750358,18.440325
+Torah (JPS 1917),good,-4.4107695,20.444645
+Torah (JPS 1917),good,-3.9170108,21.219816
+Torah (JPS 1917),good,-10.447741,19.094496
+Torah (JPS 1917),good,-9.190707,18.854689
+Torah (JPS 1917),good,-7.790725,18.129728
+Torah (JPS 1917),good,-8.347263,19.416603
+Torah (JPS 1917),evil,5.1802573,20.928019
+Torah (JPS 1917),evil,-0.36141297,19.934914
+Torah (JPS 1917),good,-4.811918,19.683832
+Torah (JPS 1917),good,-10.246203,20.980938
+Torah (JPS 1917),good,0.45586827,20.055424
+Torah (JPS 1917),good,5.2945037,16.980633
+Torah (JPS 1917),good,9.0426445,19.123625
+Torah (JPS 1917),good,8.783093,20.382141
+Torah (JPS 1917),evil,-24.770529,4.7162123
+Torah (JPS 1917),good,8.047199,21.210348
+Torah (JPS 1917),good,-14.575995,-10.239276
+Torah (JPS 1917),good,8.307131,20.948566
+Torah (JPS 1917),good,8.056168,17.257122
+Torah (JPS 1917),evil,6.844242,17.506403
+Torah (JPS 1917),good,11.159348,21.024445
+Torah (JPS 1917),evil,8.198612,15.106336
+Torah (JPS 1917),good,9.383281,16.302458
+Torah (JPS 1917),good,4.972606,18.11892
+Torah (JPS 1917),evil,3.7978323,19.022137
+Torah (JPS 1917),evil,4.144376,21.268984
+Torah (JPS 1917),good,6.1430387,19.229866
+Torah (JPS 1917),evil,6.612104,15.054403
+Torah (JPS 1917),evil,4.8606853,18.524643
+Torah (JPS 1917),good,5.5101233,19.082058
+Torah (JPS 1917),evil,2.4027138,20.026348
+Torah (JPS 1917),evil,6.6990237,9.708661
+Torah (JPS 1917),good,1.9777648,14.206195
+Torah (JPS 1917),evil,7.0015974,11.876119
+Torah (JPS 1917),good,-13.273538,12.642265
+Torah (JPS 1917),evil,-16.212784,6.212721
+Torah (JPS 1917),evil,-16.740934,5.257437
+Torah (JPS 1917),evil,-16.070684,6.5297647
+Torah (JPS 1917),evil,-10.412904,-2.3024988
+Torah (JPS 1917),good,4.432936,14.04353
+Torah (JPS 1917),evil,0.49806684,11.960135
+Torah (JPS 1917),good,3.7516267,13.448452
+Torah (JPS 1917),evil,2.6393085,13.065042
+Torah (JPS 1917),good,5.024479,11.893686
+Torah (JPS 1917),good,0.58719224,11.35956
+Torah (JPS 1917),good,1.0174694,14.099676
+Torah (JPS 1917),evil,6.371398,16.129393
+Torah (JPS 1917),good,10.9938965,12.28464
+Torah (JPS 1917),evil,1.9795079,15.925203
+Torah (JPS 1917),evil,-16.070278,11.511517
+Torah (JPS 1917),evil,-9.780296,10.988867
+Torah (JPS 1917),evil,-11.762116,9.166358
+Torah (JPS 1917),good,-7.840925,5.640763
+Torah (JPS 1917),good,-10.986655,10.5168705
+Torah (JPS 1917),good,-9.58868,10.2980795
+Torah (JPS 1917),evil,-13.2254505,8.812648
+Torah (JPS 1917),good,-13.152959,9.4265375
+Torah (JPS 1917),evil,-14.360415,8.640925
+Torah (JPS 1917),evil,-12.101557,9.539829
+Torah (JPS 1917),evil,-15.228355,10.315804
+Torah (JPS 1917),evil,1.3170419,-3.2225118
+Torah (JPS 1917),evil,0.81612164,-3.5579462
+Torah (JPS 1917),evil,-10.65787,12.537683
+Torah (JPS 1917),evil,-11.286611,13.220142
+Torah (JPS 1917),evil,-12.059029,6.3857965
+Torah (JPS 1917),evil,-8.752011,8.257173
+Torah (JPS 1917),good,-0.9241644,-24.61983
+Torah (JPS 1917),evil,8.095235,-6.507101
+Torah (JPS 1917),good,-17.545885,19.296455
+Torah (JPS 1917),good,-17.785854,19.330574
+Torah (JPS 1917),good,-7.2517686,11.432712
+Torah (JPS 1917),good,-8.226091,11.029912
+Torah (JPS 1917),good,-8.130915,-1.6007564
+Torah (JPS 1917),evil,-7.080835,-1.6304371
+Torah (JPS 1917),evil,-6.494375,9.956901
+Torah (JPS 1917),evil,-9.584511,9.619521
+Torah (JPS 1917),evil,-7.625571,9.381695
+Torah (JPS 1917),good,-12.294277,15.576951
+Torah (JPS 1917),good,-11.859472,11.4921465
+Torah (JPS 1917),evil,-13.733939,10.987664
+Torah (JPS 1917),evil,-10.398513,8.069332
+Torah (JPS 1917),evil,-9.295713,2.2531035
+Torah (JPS 1917),evil,-8.7803335,2.6489587
+Torah (JPS 1917),evil,-8.9935465,2.5206742
+Torah (JPS 1917),evil,2.9383292,1.0090408
+Torah (JPS 1917),evil,-4.5457892,-1.7120413
+Torah (JPS 1917),evil,-6.5382257,-2.6466885
+Torah (JPS 1917),evil,-8.517744,-10.805792
+Torah (JPS 1917),good,1.2433203,10.979602
+Torah (JPS 1917),good,-15.147322,-14.296297
+Torah (JPS 1917),good,-13.529714,-14.490328
+Torah (JPS 1917),good,-14.324436,-13.7734375
+Torah (JPS 1917),good,-14.70304,-13.512942
+Torah (JPS 1917),good,-13.523776,-14.659484
+Torah (JPS 1917),good,7.751396,-6.519807
+Torah (JPS 1917),evil,5.2613573,-1.6222744
+Torah (JPS 1917),evil,3.5355546,-1.6665448
+Quran (Rodwell),evil,4.733592,-27.063297
+Quran (Rodwell),evil,8.603724,-22.345808
+Quran (Rodwell),evil,12.169363,-19.354603
+Quran (Rodwell),evil,-5.6063466,25.960232
+Quran (Rodwell),evil,-5.1056366,25.91322
+Quran (Rodwell),evil,12.209337,-14.372275
+Quran (Rodwell),good,-23.06909,5.145598
+Quran (Rodwell),evil,13.815913,-15.706375
+Quran (Rodwell),good,-21.417658,12.522975
+Quran (Rodwell),evil,-21.454193,12.025098
+Quran (Rodwell),evil,10.47264,-19.397007
+Quran (Rodwell),evil,13.607147,-15.69869
+Quran (Rodwell),evil,10.783247,-19.998016
+Quran (Rodwell),evil,9.23653,-21.107224
+Quran (Rodwell),evil,-22.83806,7.85839
+Quran (Rodwell),evil,4.4465227,-25.501575
+Quran (Rodwell),evil,6.7778454,-23.840805
+Quran (Rodwell),evil,6.04989,-24.917759
+Quran (Rodwell),evil,4.510435,-24.73923
+Quran (Rodwell),evil,6.3679523,-19.275183
+Quran (Rodwell),good,-4.7851434,-9.363216
+Quran (Rodwell),evil,12.704422,9.164679
+Quran (Rodwell),evil,1.3640579,-6.4374104
+Quran (Rodwell),good,8.338206,-12.245104
+Quran (Rodwell),evil,-2.8366656,-8.589509
+Quran (Rodwell),evil,5.047703,-15.221282
+Quran (Rodwell),evil,-4.11843,-9.744555
+Quran (Rodwell),good,-25.899193,8.1501
+Quran (Rodwell),evil,3.4260612,-21.187494
+Quran (Rodwell),good,-25.225685,8.539865
+Quran (Rodwell),good,9.806561,-23.900614
+Quran (Rodwell),evil,11.022681,-25.652996
+Quran (Rodwell),good,7.5683103,-15.146663
+Quran (Rodwell),evil,-10.317648,-7.8874617
+Quran (Rodwell),good,13.637618,-21.491302
+Quran (Rodwell),evil,12.0797,-22.31615
+Quran (Rodwell),evil,13.085994,-21.344889
+Quran (Rodwell),evil,11.848532,-21.321547
+Quran (Rodwell),evil,-20.77986,8.999716
+Quran (Rodwell),good,-27.38339,8.505745
+Quran (Rodwell),evil,8.686966,-17.399446
+Quran (Rodwell),evil,-24.004278,7.2353563
+Quran (Rodwell),evil,13.771464,-24.237116
+Quran (Rodwell),evil,-21.745926,4.2638345
+Quran (Rodwell),evil,9.59974,-24.173574
+Quran (Rodwell),evil,16.067873,-19.645931
+Quran (Rodwell),evil,-3.4389806,-23.721804
+Quran (Rodwell),evil,-24.174976,5.8315854
+Quran (Rodwell),good,-2.0774572,-22.945566
+Quran (Rodwell),good,-2.031808,-24.930399
+Quran (Rodwell),evil,0.9606652,-23.277971
+Quran (Rodwell),evil,-2.3715515,-0.24866344
+Quran (Rodwell),good,15.340764,12.926546
+Quran (Rodwell),evil,6.5042853,-20.934938
+Quran (Rodwell),evil,7.41184,-20.303717
+Quran (Rodwell),evil,8.933218,-25.414171
+Quran (Rodwell),evil,9.058547,-20.228
+Quran (Rodwell),evil,10.369428,-14.135217
+Quran (Rodwell),evil,-9.123399,-6.326042
+Quran (Rodwell),evil,-14.720932,16.173521
+Quran (Rodwell),evil,-0.7691443,-12.002412
+Quran (Rodwell),evil,-5.0483227,-12.704383
+Quran (Rodwell),evil,-6.1014547,-13.609673
+Quran (Rodwell),good,-9.34148,-6.8546724
+Quran (Rodwell),evil,3.1334538,-8.809726
+Quran (Rodwell),evil,-1.3293432,-11.256962
+Quran (Rodwell),evil,-2.362579,-14.024581
+Quran (Rodwell),good,10.597843,-21.710264
+Quran (Rodwell),evil,-1.9449371,-10.189579
+Quran (Rodwell),evil,-4.936712,-14.730915
+Quran (Rodwell),good,0.89936346,-8.553521
+Quran (Rodwell),evil,-5.6973877,14.7419815
+Quran (Rodwell),evil,-2.3502824,-11.88587
+Quran (Rodwell),evil,3.5409243,-10.368646
+Quran (Rodwell),evil,-8.650706,6.172416
+Quran (Rodwell),evil,-5.663665,-11.784601
+Quran (Rodwell),evil,-1.6475744,15.721581
+Quran (Rodwell),evil,1.1319138,-10.081275
+Quran (Rodwell),evil,3.2809317,-21.895872
+Quran (Rodwell),good,4.6233897,-10.476704
+Quran (Rodwell),evil,11.415567,-17.077795
+Quran (Rodwell),good,7.4974008,-21.813282
+Quran (Rodwell),good,-3.4507146,-15.001403
+Quran (Rodwell),evil,3.0491388,-6.044949
+Quran (Rodwell),good,-4.984669,14.359813
+Quran (Rodwell),evil,-5.2881455,17.003708
+Quran (Rodwell),evil,5.8169527,-25.004885
+Quran (Rodwell),evil,2.879439,16.885056
+Quran (Rodwell),good,2.4975884,-18.361418
+Quran (Rodwell),evil,-1.4654052,-15.457751
+Quran (Rodwell),good,-26.776855,8.18139
+Quran (Rodwell),evil,0.5789138,-14.411475
+Quran (Rodwell),good,-5.228614,-16.13008
+Quran (Rodwell),evil,3.2151434,-13.208101
+Quran (Rodwell),evil,1.4832947,-12.3363285
+Quran (Rodwell),evil,3.1994863,-10.951432
+Quran (Rodwell),good,-0.89417106,-7.687968
+Quran (Rodwell),evil,0.29774863,-16.583368
+Quran (Rodwell),good,-0.5343622,-9.420136
+Quran (Rodwell),good,-6.4310045,7.0164933
+Quran (Rodwell),good,-3.9995975,-16.99434
+Quran (Rodwell),evil,-4.9211926,15.883485
+Quran (Rodwell),evil,6.0978384,-12.0457535
+Quran (Rodwell),evil,-4.233803,-13.214962
+Quran (Rodwell),good,1.0736594,-18.356264
+Quran (Rodwell),evil,-2.6031713,-12.617549
+Quran (Rodwell),evil,-2.6560144,-25.708658
+Quran (Rodwell),evil,-5.5981746,-21.52311
+Quran (Rodwell),evil,-7.36263,-15.819375
+Quran (Rodwell),evil,-18.773178,19.35202
+Quran (Rodwell),good,-2.0568225,-3.328979
+Quran (Rodwell),evil,-10.379037,5.1666083
+Quran (Rodwell),evil,-9.47641,6.121282
+Quran (Rodwell),evil,11.410495,-18.025696
+Quran (Rodwell),good,16.286781,-19.529768
+Quran (Rodwell),evil,-5.323965,-21.578363
+Quran (Rodwell),evil,-6.338688,-6.00949
+Quran (Rodwell),evil,0.24925697,-10.999016
+Quran (Rodwell),evil,-1.3994757,-12.817451
+Quran (Rodwell),evil,-1.7622718,-18.153486
+Quran (Rodwell),evil,-11.554093,0.7999423
+Quran (Rodwell),evil,1.0078425,-13.372088
+Quran (Rodwell),good,-3.1295185,-16.239044
+Quran (Rodwell),evil,-3.2750146,-15.50074
+Quran (Rodwell),evil,2.067087,-17.602158
+Quran (Rodwell),evil,-3.618089,-10.396507
+Quran (Rodwell),evil,3.0060883,-14.692187
+Quran (Rodwell),evil,5.0490527,-13.920336
+Quran (Rodwell),evil,-7.326568,-21.040417
+Quran (Rodwell),good,0.14196025,-19.161524
+Quran (Rodwell),evil,0.06757603,-16.537138
+Quran (Rodwell),evil,-1.1811758,-14.176109
+Quran (Rodwell),evil,3.6693218,-16.341099
+Quran (Rodwell),evil,2.7121272,-13.898435
+Quran (Rodwell),evil,-5.7487655,-6.6746645
+Quran (Rodwell),evil,-0.07359585,-13.303975
+Quran (Rodwell),evil,1.648231,-15.406865
+Quran (Rodwell),evil,3.1653867,-16.42895
+Quran (Rodwell),evil,3.8698988,-18.240057
+Quran (Rodwell),evil,4.5979705,-17.14816
+Quran (Rodwell),evil,7.82491,-18.0781
+Quran (Rodwell),evil,7.1625123,-16.560974
+Quran (Rodwell),evil,7.3223805,-17.30316
+Quran (Rodwell),evil,7.740937,-19.52213
+Quran (Rodwell),evil,-2.124395,-23.245884
+Quran (Rodwell),good,-21.754858,-12.463792

@@ -1,0 +1,20 @@
+{
+  "Bible (KJV)": {
+    "conservative": {
+      "mean": 0.20411823071539403,
+      "median": 0.19945241510868073
+    }
+  },
+  "Torah (JPS 1917)": {
+    "conservative": {
+      "mean": 0.21288798620988583,
+      "median": 0.2067573517560959
+    }
+  },
+  "Quran (Rodwell)": {
+    "conservative": {
+      "mean": 0.23317170750400792,
+      "median": 0.2378033623099327
+    }
+  }
+}

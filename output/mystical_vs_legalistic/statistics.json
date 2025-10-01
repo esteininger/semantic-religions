@@ -1,0 +1,44 @@
+{
+  "Bible (KJV)": {
+    "mystical": {
+      "mean": 0.21473500990495087,
+      "median": 0.21585994958877563
+    },
+    "legalistic": {
+      "mean": 0.1896904770731926,
+      "median": 0.18635965883731842
+    },
+    "comparison": {
+      "pct_mystical": 66.4,
+      "pct_legalistic": 33.6
+    }
+  },
+  "Torah (JPS 1917)": {
+    "mystical": {
+      "mean": 0.219810472929786,
+      "median": 0.2223348468542099
+    },
+    "legalistic": {
+      "mean": 0.17917484192755714,
+      "median": 0.1683548092842102
+    },
+    "comparison": {
+      "pct_mystical": 75.86206896551724,
+      "pct_legalistic": 24.137931034482758
+    }
+  },
+  "Quran (Rodwell)": {
+    "mystical": {
+      "mean": 0.22537719689258565,
+      "median": 0.23683711141347885
+    },
+    "legalistic": {
+      "mean": 0.22656713635341763,
+      "median": 0.23321016132831573
+    },
+    "comparison": {
+      "pct_mystical": 58.21917808219178,
+      "pct_legalistic": 41.78082191780822
+    }
+  }
+}

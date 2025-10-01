@@ -1,0 +1,22 @@
+{
+  "mode": "comparison",
+  "concepts": {
+    "hope": [
+      "salvation", "redemption", "deliverance", "restoration", "renewal",
+      "promise", "covenant faithfulness", "divine mercy", "future blessing",
+      "eternal life", "resurrection", "paradise", "heaven", "reward",
+      "optimism", "faith in future", "divine providence", "answered prayer",
+      "vindication", "triumph", "victory", "overcoming", "healing",
+      "new creation", "restoration of all things", "messianic age"
+    ],
+    "despair": [
+      "doom", "destruction", "judgment", "damnation", "punishment",
+      "suffering", "affliction", "torment", "anguish", "lamentation",
+      "abandonment", "desolation", "exile", "cursing", "wrath",
+      "hopelessness", "darkness", "death", "hell", "gehenna",
+      "eternal punishment", "weeping", "gnashing of teeth", "desperation",
+      "grief", "mourning", "sorrow", "affliction", "calamity"
+    ]
+  }
+}
+

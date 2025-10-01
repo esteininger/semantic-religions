@@ -1,0 +1,24 @@
+{
+  "mode": "comparison",
+  "concepts": {
+    "peace": [
+      "peace", "shalom", "salaam", "harmony", "reconciliation",
+      "peacemaking", "pacifism", "non-violence", "tranquility",
+      "concord", "unity", "peaceful resolution", "diplomacy",
+      "peaceful coexistence", "turning the other cheek", "love your enemies",
+      "blessed are the peacemakers", "peace on earth", "inner peace",
+      "peaceful kingdom", "laying down weapons", "swords into plowshares",
+      "cease hostilities", "end of war", "peaceful settlement"
+    ],
+    "war": [
+      "war", "battle", "combat", "warfare", "fighting",
+      "military conquest", "holy war", "jihad", "crusade",
+      "violence", "bloodshed", "killing in battle", "warrior",
+      "army", "soldiers", "weapons", "sword", "spear",
+      "destruction of enemies", "smiting", "slaughter",
+      "military victory", "conquest", "defeating enemies",
+      "vengeance", "retaliation", "armed conflict", "siege"
+    ]
+  }
+}
+

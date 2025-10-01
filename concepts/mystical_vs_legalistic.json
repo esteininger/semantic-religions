@@ -1,0 +1,25 @@
+{
+  "mode": "comparison",
+  "concepts": {
+    "mystical": [
+      "union with divine", "spiritual ecstasy", "transcendence", "enlightenment",
+      "mystical experience", "divine presence", "spiritual transformation",
+      "ineffable mystery", "contemplation", "meditation", "inner light",
+      "spiritual vision", "divine love", "oneness with God", "sacred mystery",
+      "spiritual awakening", "divine revelation", "transcendent reality",
+      "soul's journey", "spiritual illumination", "divine communion",
+      "sacred silence", "mystical knowledge", "spiritual rebirth"
+    ]
+    ,
+    "legalistic": [
+      "law", "commandments", "rules", "regulations", "requirements",
+      "legal obligations", "ritual purity", "proper observance", "correct procedure",
+      "religious law", "divine commandments", "legal code", "prescribed rituals",
+      "requirements for righteousness", "legal interpretation", "halakha",
+      "sharia", "canonical law", "religious jurisprudence", "legal precedent",
+      "ritual requirements", "prescribed duties", "legal righteousness",
+      "compliance with law", "juridical authority", "legal tradition"
+    ]
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+  "mode": "comparison",
+  "concepts": {
+    "wealth": [
+      "wealth", "riches", "prosperity", "abundance", "treasure",
+      "gold", "silver", "possessions", "material blessings",
+      "economic success", "affluence", "fortune", "luxury",
+      "rich", "wealthy", "prosperous", "abundant resources",
+      "financial gain", "profit", "accumulation", "inheritance",
+      "land ownership", "property", "cattle", "flocks",
+      "economic power", "material comfort", "worldly goods"
+    ],
+    "poverty": [
+      "poverty", "poor", "needy", "destitute", "lacking",
+      "widow", "orphan", "stranger", "vulnerable",
+      "hunger", "thirst", "naked", "homeless", "refugee",
+      "economic hardship", "deprivation", "want", "scarcity",
+      "begging", "alms", "charity", "relief for the poor",
+      "oppressed", "marginalized", "dispossessed", "impoverished",
+      "economic injustice", "exploitation of the poor"
+    ]
+  }
+}
+

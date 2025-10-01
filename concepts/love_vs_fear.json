@@ -1,0 +1,22 @@
+{
+  "mode": "comparison",
+  "concepts": {
+    "love": [
+      "divine love", "compassion", "mercy", "kindness", "loving-kindness",
+      "grace", "forgiveness", "tenderness", "care", "affection",
+      "charity", "benevolence", "gentleness", "patience", "understanding",
+      "embrace", "acceptance", "unconditional love", "steadfast love",
+      "God's love", "love your neighbor", "brotherly love", "sacrificial love",
+      "heart of compassion", "tender mercies", "faithful love"
+    ],
+    "fear": [
+      "fear of God", "terror", "dread", "trembling", "awe",
+      "fear of punishment", "fear of judgment", "reverent fear", "holy fear",
+      "frightening", "terrifying", "threatening", "warning", "intimidation",
+      "fearful expectation", "fear and trembling", "awesome power",
+      "dreadful majesty", "terrible judgment", "fearsome", "anxiety",
+      "apprehension", "trepidation", "alarm", "horror"
+    ]
+  }
+}
+
