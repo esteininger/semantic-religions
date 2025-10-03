@@ -1,0 +1,44 @@
+{
+  "Bible (KJV)": {
+    "dogmatic": {
+      "mean": 0.2502010782659054,
+      "median": 0.2576051652431488
+    },
+    "pluralism": {
+      "mean": 0.19467443397641182,
+      "median": 0.19746986031532288
+    },
+    "comparison": {
+      "pct_dogmatic": 92.80000000000001,
+      "pct_pluralism": 7.199999999999999
+    }
+  },
+  "Torah (JPS 1917)": {
+    "dogmatic": {
+      "mean": 0.24235037052682762,
+      "median": 0.2403143271803856
+    },
+    "pluralism": {
+      "mean": 0.18576916686162867,
+      "median": 0.17274747788906097
+    },
+    "comparison": {
+      "pct_dogmatic": 95.6896551724138,
+      "pct_pluralism": 4.310344827586207
+    }
+  },
+  "Quran (Rodwell)": {
+    "dogmatic": {
+      "mean": 0.29213037509598755,
+      "median": 0.3083581328392029
+    },
+    "pluralism": {
+      "mean": 0.22864960361119002,
+      "median": 0.23738718777894974
+    },
+    "comparison": {
+      "pct_dogmatic": 88.35616438356165,
+      "pct_pluralism": 11.643835616438356
+    }
+  }
+}

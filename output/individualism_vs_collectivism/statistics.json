@@ -1,0 +1,44 @@
+{
+  "Bible (KJV)": {
+    "individualism": {
+      "mean": 0.1403143579363823,
+      "median": 0.13341867923736572
+    },
+    "collectivism": {
+      "mean": 0.12280432579666375,
+      "median": 0.12061427533626556
+    },
+    "comparison": {
+      "pct_individualism": 64.8,
+      "pct_collectivism": 35.199999999999996
+    }
+  },
+  "Torah (JPS 1917)": {
+    "individualism": {
+      "mean": 0.1421018768230389,
+      "median": 0.13713758438825607
+    },
+    "collectivism": {
+      "mean": 0.13622256942446634,
+      "median": 0.1305120587348938
+    },
+    "comparison": {
+      "pct_individualism": 56.03448275862068,
+      "pct_collectivism": 43.96551724137931
+    }
+  },
+  "Quran (Rodwell)": {
+    "individualism": {
+      "mean": 0.1460821810561194,
+      "median": 0.14745239168405533
+    },
+    "collectivism": {
+      "mean": 0.1307748530621398,
+      "median": 0.13766955584287643
+    },
+    "comparison": {
+      "pct_individualism": 61.64383561643836,
+      "pct_collectivism": 38.35616438356164
+    }
+  }
+}

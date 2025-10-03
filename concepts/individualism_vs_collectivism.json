@@ -1,0 +1,24 @@
+{
+  "mode": "comparison",
+  "concepts": {
+    "individualism": [
+      "individual freedom", "personal autonomy", "self-determination", "personal responsibility",
+      "individual rights", "self-reliance", "personal choice", "independence",
+      "individual conscience", "personal faith", "self-expression", "personal salvation",
+      "individual judgment", "private interpretation", "personal relationship with God",
+      "freedom of conscience", "personal liberty", "self-directed", "individual agency",
+      "personal accountability", "self-governance", "individual sovereignty",
+      "personal spiritual journey", "private devotion", "individual calling"
+    ],
+    "collectivism": [
+      "community", "collective responsibility", "group identity", "communal solidarity",
+      "social cohesion", "collective worship", "community of believers", "common good",
+      "shared values", "collective obligation", "group harmony", "communal prayer",
+      "corporate identity", "social unity", "collective salvation", "community bonds",
+      "shared traditions", "communal rituals", "group membership", "social belonging",
+      "collective destiny", "communal responsibility", "tribal identity", "people of God",
+      "congregation", "fellowship", "community of faith", "social interdependence"
+    ]
+  }
+}
+

@@ -1,0 +1,25 @@
+{
+  "mode": "comparison",
+  "concepts": {
+    "dogmatic": [
+      "absolute truth", "exclusive truth", "one true way", "orthodox doctrine",
+      "doctrinal purity", "heresy", "apostasy", "infallibility", "unchanging truth",
+      "dogma", "creed", "confession", "correct belief", "religious orthodoxy",
+      "doctrinal certainty", "theological absolutes", "exclusive revelation",
+      "only path to salvation", "false religion", "religious error", "unbeliever",
+      "infidel", "pagan", "heathen", "correct doctrine", "doctrinal correctness",
+      "theological precision", "divine mandate", "absolute authority", "inerrant truth"
+    ],
+    "pluralism": [
+      "multiple paths", "religious diversity", "tolerance", "coexistence",
+      "respect for differences", "interfaith dialogue", "religious freedom",
+      "many truths", "different expressions", "various traditions", "spiritual diversity",
+      "acceptance of others", "peaceful coexistence", "religious pluralism",
+      "theological openness", "mutual respect", "different beliefs", "various faiths",
+      "religious tolerance", "ecumenical", "inclusive", "acceptance",
+      "respect for other religions", "interfaith harmony", "religious liberty",
+      "freedom of belief", "theological diversity", "openness to others"
+    ]
+  }
+}
+

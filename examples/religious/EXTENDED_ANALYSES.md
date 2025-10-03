@@ -1,6 +1,6 @@
 # Extended Semantic Analyses of Religious Texts
 
-This document presents findings from **9 additional semantic analyses** beyond the original good/evil and liberal concepts comparisons.
+This document presents findings from **11 additional semantic analyses** beyond the original good/evil and liberal concepts comparisons.
 
 ---
 
@@ -14,9 +14,11 @@ This document presents findings from **9 additional semantic analyses** beyond t
 6. [War vs Peace](#6-war-vs-peace)
 7. [Nature & Environment](#7-nature--environment)
 8. [Wealth vs Poverty](#8-wealth-vs-poverty)
-9. [Illiberal Practices & Human Rights Violations](#9-illiberal-practices--human-rights-violations)
-10. [Cross-Analysis Comparison](#cross-analysis-comparison)
-11. [Key Insights](#key-insights)
+9. [Individualism vs Collectivism](#9-individualism-vs-collectivism)
+10. [Dogmatic vs Pluralism](#10-dogmatic-vs-pluralism)
+11. [Illiberal Practices & Human Rights Violations](#11-illiberal-practices--human-rights-violations)
+12. [Cross-Analysis Comparison](#cross-analysis-comparison)
+13. [Key Insights](#key-insights)
 
 ---
 
@@ -220,7 +222,92 @@ Economic themes: wealth, prosperity, riches vs poverty, need, social justice for
 
 ---
 
-## 9. Illiberal Practices & Human Rights Violations
+## 9. Individualism vs Collectivism
+
+![Individualism vs Collectivism](../../assets/analyses/individualism_vs_collectivism.png)
+
+### Overview
+Analysis of individual autonomy and personal responsibility versus communal identity and collective obligation.
+
+### Results
+
+| Text | % Individualism | % Collectivism | Dominant Orientation |
+|------|----------------|----------------|---------------------|
+| **Bible** | **64.8%** | 35.2% | Individualism-dominant |
+| **Quran** | **61.6%** | 38.4% | Individualism-leaning |
+| **Torah** | **56.0%** | 44.0% | Individualism-leaning |
+
+**Mean Scores:**
+
+| Text | Individualism Mean | Collectivism Mean |
+|------|-------------------|-------------------|
+| Quran | 0.1461 | 0.1308 |
+| Torah | 0.1421 | 0.1362 |
+| Bible | 0.1403 | 0.1228 |
+
+### Key Findings:
+- **All three texts lean individualist** (56-65% individualism)
+- **Bible most individualistic** (64.8%): personal salvation, individual faith, direct relationship with God
+- **Torah most balanced** (56/44 split): balances individual responsibility with tribal/communal identity
+- **Quran moderately individualistic** (61.6%): individual accountability on Day of Judgment, but strong ummah (community) emphasis
+- Surprising finding: Ancient religious texts show substantial individualism despite communal contexts
+- Reflects theological emphasis on personal moral responsibility and individual divine relationship
+
+**Interpretation:**
+- Religious individualism differs from modern political individualism
+- Focus on individual salvation/judgment creates theological individualism
+- All texts balance personal accountability with communal belonging
+- Higher individualism scores reflect God-individual relationship emphasis
+
+---
+
+## 10. Dogmatic vs Pluralism
+
+![Dogmatic vs Pluralism](../../assets/analyses/dogmatic_vs_pluralism.png)
+
+### Overview
+Comparison between exclusive truth claims, doctrinal rigidity versus openness to religious diversity, tolerance, and multiple paths.
+
+### Results
+
+| Text | % Dogmatic | % Pluralism | Dominant Stance |
+|------|-----------|-------------|-----------------|
+| **Torah** | **95.7%** | 4.3% | Overwhelmingly Dogmatic |
+| **Bible** | **92.8%** | 7.2% | Overwhelmingly Dogmatic |
+| **Quran** | **88.4%** | 11.6% | Overwhelmingly Dogmatic |
+
+**Mean Scores:**
+
+| Text | Dogmatic Mean | Pluralism Mean |
+|------|--------------|----------------|
+| Quran | 0.2921 | 0.2286 |
+| Bible | 0.2502 | 0.1947 |
+| Torah | 0.2424 | 0.1858 |
+
+### Key Findings:
+- **All texts are overwhelmingly dogmatic** (88-96% dogmatic)
+- **Torah most dogmatic** (95.7%): exclusive covenant, chosen people, strict monotheism
+- **Bible highly dogmatic** (92.8%): "I am the way, the truth, and the life" exclusivity
+- **Quran slightly more pluralistic** (11.6% pluralism): limited recognition of "People of the Book"
+- Very low pluralism across all texts reflects ancient religious exclusivism
+- Quran's higher dogmatic raw score (0.292) shows strongest absolute dogmatic language
+
+**Interpretation:**
+- Ancient religious texts emerged in contexts of competing truth claims
+- Dogmatism served identity formation and boundary maintenance
+- Modern pluralism is a recent development incompatible with ancient worldviews
+- Even Quran's relative "pluralism" is minimal - still 88.4% dogmatic
+- Results reflect theological claims to exclusive divine revelation
+
+**Historical Context:**
+- Pre-modern religions functioned as total worldviews requiring exclusive commitment
+- Pluralism as we understand it (many valid paths) is modern liberal concept
+- Ancient "tolerance" meant coexistence, not theological equivalence
+- Results show fundamental tension between ancient religion and modern pluralism
+
+---
+
+## 11. Illiberal Practices & Human Rights Violations
 
 ![Illiberal Practices](assets/analyses/illiberal_practices.png)
 
@@ -355,6 +442,16 @@ This analysis provides linguistic evidence for the **presence** of illiberal con
 2. 🥈 Torah (57.8%)
 3. 🥉 Bible (54.4%)
 
+**Individualism Orientation** (% Individualism):
+1. 🥇 Bible (64.8%)
+2. 🥈 Quran (61.6%)
+3. 🥉 Torah (56.0%)
+
+**Dogmatism** (% Dogmatic):
+1. 🥇 Torah (95.7%)
+2. 🥈 Bible (92.8%)
+3. 🥉 Quran (88.4%)
+
 **Illiberal Practices** (Human Rights Violations):
 1. 🥇 Quran (0.2462)
 2. 🥈 Torah (0.2200)
@@ -417,11 +514,15 @@ This analysis provides linguistic evidence for the **presence** of illiberal con
 - Lean toward hope over despair (51-74%)
 - Show substantial conservative values (0.20-0.23)
 - Have relatively low feminine presence (0.10-0.15)
+- **Surprisingly individualistic** (56-65%) despite communal contexts
+- **Overwhelmingly dogmatic** (88-96%) with minimal pluralism
 
 **Differences Matter:**
 - Emotional frameworks differ significantly (love vs fear)
 - Mystical vs legalistic balance varies
 - Peace/war emphasis shows surprising inversions of stereotypes
+- Individualism vs collectivism shows theological nuances
+- Dogmatism levels vary but remain universally high
 
 ### 5. **Stereotype Challenges**
 
@@ -430,11 +531,15 @@ This analysis provides linguistic evidence for the **presence** of illiberal con
 - Torah is MOST mystical (76%), not just legalistic
 - Torah emphasizes LOVE over fear more than Quran
 - Bible is LOW on feminine presence despite Mary/women in NT
+- **All texts are surprisingly individualistic** (56-65%) despite emphasis on community
+- **Quran is relatively most pluralistic** (11.6%) among overwhelmingly dogmatic texts
 
 **Confirmations:**
 - Quran is most conservative (tradition/authority)
 - Torah highest on nature/environment (land emphasis)
 - All texts care deeply about poverty
+- **All texts are overwhelmingly dogmatic** (88-96%) - ancient religions claimed exclusive truth
+- **Religious individualism exists** - personal salvation/judgment creates theological individualism
 
 ---
 
